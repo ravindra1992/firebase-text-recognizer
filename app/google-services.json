@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091020746547",
+    "firebase_url": "https://fir-textrecognizer-5d478.firebaseio.com",
+    "project_id": "fir-textrecognizer-5d478",
+    "storage_bucket": "fir-textrecognizer-5d478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091020746547:android:e389dc44dfa4f55b6a5846",
+        "android_client_info": {
+          "package_name": "com.firebase.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091020746547-4edp1gch6pq69omam26cslh32mpdvsok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5aFxKKVbtdEgMg5J3zG5ziX5Ymotn1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091020746547-4edp1gch6pq69omam26cslh32mpdvsok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
